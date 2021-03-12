@@ -1,0 +1,9 @@
+{
+    "name": "ioc/ioccontainer",
+    "description": "php的ioc容器的代码实现",
+    "autoload": {
+        "psr-4": {
+            "IocContainer": "src/IocContainer"
+        }
+    }
+}
