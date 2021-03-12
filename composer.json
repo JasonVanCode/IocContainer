@@ -1,5 +1,5 @@
 {
-    "name": "ioc/ioccontainer",
+    "name": "jasonvancode/ioccontainer",
     "description": "php的ioc容器的代码实现",
     "autoload": {
         "psr-4": {
